@@ -27,3 +27,15 @@ label {
   margin-top: 500px;
   font-size: 10px;
 }
+
+button.btn-age-process {
+  margin-top: 16px;
+}
+
+.result.result-sucess {
+  margin-top: 16px;
+}
+
+.result.result-danger {
+  margin-top: 16px;
+}
